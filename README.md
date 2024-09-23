@@ -1,0 +1,1 @@
+# plugins-wpf2b-addon-blocklist
